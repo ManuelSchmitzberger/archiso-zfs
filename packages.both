@@ -62,3 +62,15 @@ wireless_tools
 wvdial
 xl2tpd
 wpa_supplicant
+inetutils
+netctl
+iwd
+wireless-regdb
+dhcpcd
+device-mapper
+cryptsetup
+gettext
+iputils
+util-linux
+e2fsprogs
+linux-firmware
